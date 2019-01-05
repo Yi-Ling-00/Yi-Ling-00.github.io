@@ -135,12 +135,14 @@ line-height: 30px;
     padding: 20px ;
 }
 .group_pic2 img{
-    display: flex;
+     display: flex;
     align-content: center;
-    width: 500px;
-    height: 300px;
+    flex-flow: row nowrap;
+    /* width: 650px;
+    height: 500px; */
     border-radius: 20%;
     background: white;
+   
     }
     .B-P2{
         word-spacing: 5px;
