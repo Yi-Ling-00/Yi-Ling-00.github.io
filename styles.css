@@ -135,7 +135,7 @@ line-height: 30px;
     padding: 20px ;
 }
 .group_pic2 img{
-     display: flex;
+ display: flex;
     align-content: center;
     flex-flow: row nowrap;
     /* width: 650px;
