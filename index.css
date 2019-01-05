@@ -1,0 +1,148 @@
+﻿* {
+    margin: 0;
+    box-sizing: border-box;
+    
+  }    
+    body{
+    background-color: Lavender; 
+    font-family:sans,Courier,NewHeader;
+    }
+    h1 {
+     font-size: 70x;
+    color: MediumPurple;     
+    text-align: center
+   
+    }
+    h2{
+    color:MediumSlateBlue;
+     /* text-align: center */
+    }
+    .pic_1 img{
+    display: flex;
+    margin-left: auto;
+    background: white;
+    width: 300px;
+    height: 350px;
+    margin: 0 100px;
+    }
+	
+.robotics img{
+    width: 500px;
+    height: 300px;
+    background: white;
+}
+.skills video{
+    width: 350px;
+    height: 250px;
+}
+    .header{
+    display: flex;
+    overflow: hidden;
+    padding: 20px 10px;
+    justify-content:space-evenly;
+    border: 1px solid rgb(255, 255, 255);  /* For debugging */
+    width: 900px;
+    }
+    .header a{
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius:4px;
+    }
+.header .active{
+background-color: dodgerblue;
+color: white;
+border-radius: 25px;
+padding: 18px 18px;
+}  
+.header-container{
+display: flex;
+justify-content:space-evenly;
+background-color: rebeccapurple;
+padding: 20px 0;
+flex-wrap: wrap;
+  }
+.block-one{
+    padding: 50px ;
+    display: flex;
+    align-items: center;
+    word-spacing: 5px;
+    line-height: 40px;
+    flex-wrap: wrap;
+}
+.block-two{
+    padding: 20px ;
+    display: flex;
+    justify-content:center;
+    background-color: rgb(43, 153, 226);
+    flex-wrap: wrap;
+}
+.para-1{
+    padding: 50px ;
+    display: flex;
+    word-spacing: 5px;
+    line-height: 40px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name {
+    width:50%;
+    transform:rotate(5deg);
+    border-color: aquamarine; 
+    font-size: 60px;
+    line-height: 120px;
+
+}
+.logo{height:50px;
+     width:50px 
+    } 
+.signUpForm {
+    display:flex;
+    flex-direction: column;
+}
+
+.A-P1 {
+    display: flex;
+    padding: 20px ;
+    flex-wrap: wrap;
+}
+.A-P2{
+    display: flex;
+    flex-direction: column;
+    padding: 20px ;
+    flex-wrap: wrap;
+}
+.P-A1{
+    display: flex;
+    flex-direction: column;
+    padding: 20px ;
+    flex-wrap: wrap;
+    
+}
+.P-A2{
+word-spacing: 5px;
+line-height: 30px;
+}
+.P-B1{
+    display: flex;
+    word-spacing: 5px;
+    line-height: 30px;
+    flex-wrap: wrap;
+    padding: 20px ;
+}
+.group_pic2 img{
+    display: flex;
+    align-content: center;
+    width: 500px;
+    height: 300px;
+    border-radius: 20%;
+    background: white;
+    }
+    .B-P2{
+        word-spacing: 5px;
+        line-height: 40px;
+    }
