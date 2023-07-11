@@ -629,6 +629,7 @@ textarea.form-control {
   border-top-right-radius: 50% 50%; 
   border-bottom-right-radius: 50% 50%; 
   border-bottom-left-radius: 50% 50%; 
+  border: 5px solid #555;
 }
 
 .banner-section .logo-fa {  
@@ -772,9 +773,9 @@ textarea.form-control {
 }
 
 .work-section .title {
-  margin-top: 5px;
   margin-left: 1px;
-  border-bottom: 1px solid #fff;
+  padding-bottom: 30px;
+  /*border-bottom: 1px solid #fff;*/
 }
 
 .work-section .title h2 {
