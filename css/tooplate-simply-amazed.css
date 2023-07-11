@@ -42,6 +42,7 @@ img {
   max-width: 100%;
 }
 
+
 /* <<< anchor >>> */
 a {
   color: #99ccff;
@@ -618,6 +619,17 @@ textarea.form-control {
 }
 
 .bg-blue-transparent { background-color: rgb(102 153 204 / 0.8); }
+.abt-me {
+  text-align: left;
+  color: white;
+}
+
+.circular--square { 
+  border-top-left-radius: 50% 50%; 
+  border-top-right-radius: 50% 50%; 
+  border-bottom-right-radius: 50% 50%; 
+  border-bottom-left-radius: 50% 50%; 
+}
 
 .banner-section .logo-fa {  
   color: #fff;
