@@ -624,6 +624,10 @@ textarea.form-control {
   color: white;
 }
 
+.abt-me h4{
+  text-align: left;
+  color: #555;
+}
 .circular--square { 
   border-top-left-radius: 50% 50%; 
   border-top-right-radius: 50% 50%; 
@@ -988,7 +992,7 @@ figure.effect-julia:hover p {
   justify-content: center;
 }
 
-.contact-section .title { margin-bottom: 50px; }
+.contact-section .title { margin-bottom: 190px;}
 
 .contact-section .title h3 {
   color: #fff;
