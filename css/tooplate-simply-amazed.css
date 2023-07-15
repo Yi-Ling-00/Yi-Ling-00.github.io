@@ -881,8 +881,9 @@ figure.effect-julia {
 }
 
 figure.effect-julia img {
-  width: auto;
-  height: 50%;
+  width:  200px;
+  height: 200px;
+  object-fit: cover;
 	-webkit-transition: opacity 1s, -webkit-transform 1s;
 	transition: opacity 1s, transform 1s;
 	-webkit-backface-visibility: hidden;
